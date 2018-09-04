@@ -1,0 +1,12 @@
+Variables =
+  nombreSaisi
+
+DEBUT
+
+  Lire nombreSaisi
+  
+  Pour i de 1 à nombre (par pas de 1)
+    Afficher "Bienvenue à la wild"
+  Fin Pour
+  
+FIN
